@@ -2,7 +2,7 @@ The WhatsApp Chat Analyzer is a Python-based tool that helps users gain meaningf
 
 
 
-🔍 Key Features:
+🔍 Key Features :-
 
 Message count per user
 
@@ -20,7 +20,7 @@ Visualization charts (matplotlib/seaborn-based)
 
 
 
-🛠 Technologies Used:
+🛠 Technologies Used :-
 
 Python
 
@@ -34,12 +34,12 @@ Streamlit (for building an interactive web app) (if applicable)
 
 
 
-📥 Input:
+📥 Input :-
 
 Exported .txt file from WhatsApp chat (without media)
 
 
 
-🎯 Purpose:
+🎯 Purpose :-
 
 This project is aimed at showcasing data analysis skills by converting unstructured text data into structured insights, making it ideal for learning and demonstrating proficiency in Python, data cleaning, and visualization.
